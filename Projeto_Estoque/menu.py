@@ -1,0 +1,17 @@
+def exibir_menu():
+    """Exibe o menu principal do sistema."""
+    print("=" * 50)
+    print(" SISTEMA DE CONTROLE DE ESTOQUE ")
+    print(" Loja de Material de Construção")
+    print("=" * 50)
+    print("1 - Cadastrar produto")
+    print("2 - Listar produtos")
+    print("3 - Buscar produto")
+    print("4 - Atualizar produto")
+    print("5 - Excluir produto")
+    print("6 - Entrada de estoque")
+    print("7 - Saída de estoque")
+    print("8 - Produtos com estoque baixo")
+    print("9 - Relatório do estoque")
+    print("0 - Sair")
+    print("=" * 50)
