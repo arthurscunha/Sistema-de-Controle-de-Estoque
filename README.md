@@ -13,7 +13,7 @@ Um sistema simples de gerenciamento de estoque desenvolvido em Python.
 
 ##  Tecnologias Utilizadas
 
-- Python 3.14
+- Python 3.14.6
 - Programação Orientada a Objetos
 - Manipulação de arquivos
 
